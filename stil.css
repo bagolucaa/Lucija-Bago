@@ -1,0 +1,43 @@
+/*@charset "UTF-8";
+/* CSS Document */
+p {
+
+  color: #553D44;
+  font-family:monospace ;
+  font-size: 18px;
+  line-height: 18px;
+  width: 600px;
+  background-color: #FFB7CE;
+  padding: 14px;
+}
+q{background-color: #FFB7DE;
+padding: 2px;
+line-height: 3px;
+
+
+}
+h1,h2 {
+  font-family:monospace;
+  color: #4AB62C;
+}
+body{
+  background-image: url("Slike/houseee.webp");
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+
+
+a:link{
+  color: #AA7A89;
+  background-color: #FFCFDE;
+  padding: 4px;
+  line-height: 25px;
+  border: 1px;
+
+}
+a:hover{
+  background-color: #363737;
+
+}
