@@ -37,7 +37,7 @@ h2{
 }
 body{
   font-family: monospace;
-  background-image: url("Slike/more.jpeg");
+  background-image: url("more.jpeg");
   height: 100vh;
   background-size: cover;
   background-position: center;
@@ -156,3 +156,4 @@ footer {
   width: 100%;
 
 }
+
